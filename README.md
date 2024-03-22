@@ -1,3 +1,6 @@
+# Carlo Siebenschuh's Fork of LDMs
+Exploring scientific applicability of LDMs
+
 # Latent Diffusion Models
 [arXiv](https://arxiv.org/abs/2112.10752) | [BibTeX](#bibtex)
 
